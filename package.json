@@ -45,7 +45,7 @@
     "emojibase": "^5.0.0",
     "emojibase-data": "^7.0.1",
     "glob": "^7.1.2",
-    "jsdom": "^13.2.0",
+    "jsdom": "^16.5.0",
     "kd-tree-javascript": "^1.0.3",
     "libxmljs": "^0.19.7",
     "lodash": "^4.17.21",
